@@ -4,7 +4,7 @@
 
 public class MessageUtil {
 
-   private String message="Hello World";
+   private String message;
 
    //Constructor
    //@param message to be printed
